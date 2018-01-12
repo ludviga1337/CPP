@@ -12,7 +12,7 @@ int main ()
   cin >> i;
   if (i >= 10) //...om inte sant
   {
-    cout << "Du matade in ett tal, större eller lika med 10" << endl;
+    cout << "Du matade in ett tal till exempel 2, större eller lika med 10" << endl;
   }
   else //... utförs detta istället
   {
